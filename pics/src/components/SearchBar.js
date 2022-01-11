@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
 class SearchBar extends React.Component {
-    render() {
-        return (<div>Search Bar</div>);
-    }
+  render() {
+    return <div>Search Bar</div>;
+  }
 }
 
 export default SearchBar;
